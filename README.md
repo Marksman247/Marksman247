@@ -1,5 +1,5 @@
 # Hello, I'm Markson
-<a href="linkedin.com/in/markson-umesi-4b898b34a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href=linkedin.com/in/markson-umesi-4b898b34a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
