@@ -38,24 +38,26 @@ With an IBM Cybersecurity Analyst certification and experience in sales, I'm eag
 
 ### SIEM
 
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<a href="https://www.splunk.com">
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</a>
+
  
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
-<img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Architecture-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
-<img src="https://img.shields.io/badge/-IBM%20Penetration%20Testing-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
-<img src="https://img.shields.io/badge/-IBM%20Hunting-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
-<img src="https://img.shields.io/badge/-IBM%20Cryptography-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
-<img src="https://img.shields.io/badge/-IBM%20Computer%20Networks-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
-<img src="https://img.shields.io/badge/-IBM%20Network%20Security-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
-<img src="https://img.shields.io/badge/-IBM%20Database%20Essentials-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
-<img src="https://img.shields.io/badge/-IBM%20Vulnerability-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
-<img src="https://img.shields.io/badge/-IBM%20Incident%20Response-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
-<img src="https://img.shields.io/badge/-IBM%20Digital%20Forensics-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
-</div>
+<a href="https://www.ibm.com/certify">
+  <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IBM%20Penetration%20Testing-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IBM%20Hunting-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IBM%20Cryptography-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IBM%20Computer%20Networks-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IBM%20Network%20Security-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IBM%20Database%20Essentials-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IBM%20Vulnerability-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IBM%20Incident%20Response-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IBM%20Digital%20Forensics-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
+</a>
 
 ## Projects
 - Detection Lab
