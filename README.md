@@ -4,14 +4,12 @@
 </a>
 
 
-[Brief Introduction - Remove this afterwards]
 
 I'm new to the world of cybersecurity and excited to learn and grow in this ever-evolving field.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+With an IBM Cybersecurity Analyst certification and experience in sales, I'm eager to leverage my skills and transition into a Security Operations Center (SOC) role as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
