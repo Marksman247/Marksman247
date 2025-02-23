@@ -51,7 +51,7 @@ With an IBM Cybersecurity Analyst certification and experience in sales, I'm eag
  
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <a href="https://www.ibm.com/certify">
   <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
   <img src="https://img.shields.io/badge/-IBM%20Penetration%20Testing-005C8A?&style=for-the-badge&logo=IBM&logoColor=white" />
