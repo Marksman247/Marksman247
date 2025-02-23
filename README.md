@@ -8,6 +8,7 @@
 I'm new to the world of cybersecurity and excited to learn and grow in this ever-evolving field.
 
 
+## Objective
 
 With an IBM Cybersecurity Analyst certification and experience in sales, I'm eager to leverage my skills and transition into a Security Operations Center (SOC) role as a Tier 1 Analyst.
 
