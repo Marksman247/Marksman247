@@ -13,7 +13,7 @@ I'm new to the world of cybersecurity and excited to learn and grow in this ever
 With an IBM Cybersecurity Analyst certification and experience in sales, I'm eager to leverage my skills and transition into a Security Operations Center (SOC) role as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -25,15 +25,20 @@ With an IBM Cybersecurity Analyst certification and experience in sales, I'm eag
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<a href="https://www.wireshark.org">
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</a>
   
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<a href="https://www.microsoft.com/en-us/microsoft-365/security/business/defender-endpoint">
+  <img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</a>
+
     
 
 ### SIEM
@@ -41,6 +46,7 @@ With an IBM Cybersecurity Analyst certification and experience in sales, I'm eag
 <a href="https://www.splunk.com">
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </a>
+
 
  
 
@@ -61,4 +67,8 @@ With an IBM Cybersecurity Analyst certification and experience in sales, I'm eag
 
 ## Projects
 - Detection Lab
+- 
 - SOC Automation Project
+- 
+-Case study report
+https://docs.google.com/presentation/d/1Yhw3D_r7wmzGUKiGaOf87M2j861lg1uZ/edit?usp=drive_link&ouid=100318220461652791838&rtpof=true&sd=true
