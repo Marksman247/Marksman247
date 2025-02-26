@@ -19,7 +19,7 @@ With an IBM Cybersecurity Analyst certification and experience in sales, I'm eag
 
 | Skill                                      | Description  |
 |--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Operating Systems, Security & Virtualization | Hands-on experience with Windows and Linux server administration, security practices, and virtualization tools like VMware and Hyper-V. Knowledge of Active Directory, system backups, and automation (PowerShell, Bash). |
+| Operating Systems, Security & Virtualization | Hands-on experience with Windows and Linux server administration, security practices, and virtualization tools like VMware. Knowledge of Active Directory, system backups, and automation. |
 | Data Protection & Incident Response        | Experience with data encryption, backup management, and incident response procedures. Familiar with SIEM tools for monitoring security events and testing disaster recovery plans. |
 | Network Security & Vulnerability Assessment | Configured firewalls, secured networks, and used vulnerability scanning tools like Nessus. Basic penetration testing and IDS/IPS knowledge. |
 | Risk Management & Threat Analysis          | Knowledge of risk assessment, mitigation strategies, and security frameworks like GDPR and HIPAA. Experience with business impact analysis (BIA) and third-party risk management. |
@@ -70,7 +70,7 @@ With an IBM Cybersecurity Analyst certification and experience in sales, I'm eag
 
 ## Projects
 - Final Projects Coursera
-- https://drive.google.com/drive/folders/1nTgK_DoEYFT923NJJjthZtzv7yheCWpT?usp=drive_link
+ https://drive.google.com/drive/folders/1nTgK_DoEYFT923NJJjthZtzv7yheCWpT?usp=drive_link
   
 -Case study report
-https://docs.google.com/presentation/d/1Yhw3D_r7wmzGUKiGaOf87M2j861lg1uZ/edit?usp=drive_link&ouid=100318220461652791838&rtpof=true&sd=true
+ https://docs.google.com/presentation/d/1Yhw3D_r7wmzGUKiGaOf87M2j861lg1uZ/edit?usp=drive_link&ouid=100318220461652791838&rtpof=true&sd=true
