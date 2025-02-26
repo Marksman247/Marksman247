@@ -15,14 +15,30 @@ With an IBM Cybersecurity Analyst certification and experience in sales, I'm eag
 ## Skills
 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         |
+|-----------------------------------------------|
+| Operating Systems: Administration, Security, and Virtualization
+Gained hands-on experience with Windows and Linux server administration and basic security practices.
+Learned to manage virtualized environments using tools like VMware and Hyper-V.
+Familiar with Active Directory management, system backups, and automation through PowerShell and Bash.          |
+| Data Protection & Incident Response
+Learned data protection techniques, including encryption and backup management.
+Gained knowledge in incident response, handling security events, and using SIEM tools for monitoring.
+Familiar with creating and testing disaster recovery plans. |
+| Network Security & Vulnerability Assessment
+Gained experience with configuring firewalls and securing network infrastructures.
+Learned to use vulnerability scanning tools and conduct basic penetration testing.
+Familiar with IDS/IPS systems and network security practices.         |
+| Risk Management & Threat Analysis
+Learned risk assessment and mitigation strategies to protect systems and data.
+Gained understanding of common security frameworks (GDPR, HIPAA) and the importance of security audits.
+Familiar with conducting business impact analysis (BIA) and understanding third-party risks.      |
+| Cybersecurity Fundamentals
+Gained foundational knowledge of network security, malware defense, and access control mechanisms.
+Learned about endpoint security, threat detection, and responding to social engineering attacks.
+Familiar with cloud security principles and Zero Trust architecture.                 |
+
+
 
 ## Tools
 
@@ -66,9 +82,7 @@ With an IBM Cybersecurity Analyst certification and experience in sales, I'm eag
 </a>
 
 ## Projects
-- Detection Lab
-- 
-- SOC Automation Project
-- 
+- Final Projects Coursera
+- https://drive.google.com/drive/folders/1nTgK_DoEYFT923NJJjthZtzv7yheCWpT?usp=drive_link
 -Case study report
 https://docs.google.com/presentation/d/1Yhw3D_r7wmzGUKiGaOf87M2j861lg1uZ/edit?usp=drive_link&ouid=100318220461652791838&rtpof=true&sd=true
