@@ -16,31 +16,14 @@ With an IBM Cybersecurity Analyst certification and experience in sales, I'm eag
 
 
 | Skill                                         |
-|-----------------------------------------------|
-| Operating Systems: Administration, Security, and Virtualization
-Gained hands-on experience with Windows and Linux server administration and basic security practices.
-Learned to manage virtualized environments using tools like VMware and Hyper-V.
-Familiar with Active Directory management, system backups, and automation through PowerShell and Bash.          |
 
-| Data Protection & Incident Response
-Learned data protection techniques, including encryption and backup management.
-Gained knowledge in incident response, handling security events, and using SIEM tools for monitoring.
-Familiar with creating and testing disaster recovery plans. |
-
-| Network Security & Vulnerability Assessment
-Gained experience with configuring firewalls and securing network infrastructures.
-Learned to use vulnerability scanning tools and conduct basic penetration testing.
-Familiar with IDS/IPS systems and network security practices.         |
-
-| Risk Management & Threat Analysis
-Learned risk assessment and mitigation strategies to protect systems and data.
-Gained understanding of common security frameworks (GDPR, HIPAA) and the importance of security audits.
-Familiar with conducting business impact analysis (BIA) and understanding third-party risks.      |
-
-| Cybersecurity Fundamentals
-Gained foundational knowledge of network security, malware defense, and access control mechanisms.
-Learned about endpoint security, threat detection, and responding to social engineering attacks.
-Familiar with cloud security principles and Zero Trust architecture.                 |
+| Skill                                      | Description  |
+|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Operating Systems, Security & Virtualization | Hands-on experience with Windows and Linux server administration, security practices, and virtualization tools like VMware and Hyper-V. Knowledge of Active Directory, system backups, and automation (PowerShell, Bash). |
+| Data Protection & Incident Response        | Experience with data encryption, backup management, and incident response procedures. Familiar with SIEM tools for monitoring security events and testing disaster recovery plans. |
+| Network Security & Vulnerability Assessment | Configured firewalls, secured networks, and used vulnerability scanning tools like Nessus. Basic penetration testing and IDS/IPS knowledge. |
+| Risk Management & Threat Analysis          | Knowledge of risk assessment, mitigation strategies, and security frameworks like GDPR and HIPAA. Experience with business impact analysis (BIA) and third-party risk management. |
+| Cybersecurity Fundamentals                 | Strong foundation in network security, malware defense, access control, endpoint security, and social engineering attack responses. Familiar with cloud security principles and Zero Trust architecture. |
 
 
 
@@ -88,6 +71,6 @@ Familiar with cloud security principles and Zero Trust architecture.            
 ## Projects
 - Final Projects Coursera
 - https://drive.google.com/drive/folders/1nTgK_DoEYFT923NJJjthZtzv7yheCWpT?usp=drive_link
-- 
+  
 -Case study report
 https://docs.google.com/presentation/d/1Yhw3D_r7wmzGUKiGaOf87M2j861lg1uZ/edit?usp=drive_link&ouid=100318220461652791838&rtpof=true&sd=true
